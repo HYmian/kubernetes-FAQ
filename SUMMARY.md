@@ -1,6 +1,6 @@
 # Table of contents
 
-* [序言](README.md)
+* [What Is Kubernetes?](README.md)
 * [建集群的规划](jian-ji-qun-de-gui-hua.md)
 * [建完集群要做的事](jian-wan-ji-qun-yao-zuo-de-shi.md)
 
